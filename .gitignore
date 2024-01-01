@@ -23,3 +23,5 @@ coverage
 .hpc
 loadtest
 .history
+/.idea/
+/venv/
