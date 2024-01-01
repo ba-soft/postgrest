@@ -1,0 +1,1 @@
+postgrest.exe local.conf
