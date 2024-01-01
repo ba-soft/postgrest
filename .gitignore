@@ -25,3 +25,4 @@ loadtest
 .history
 /.idea/
 /venv/
+/qodana.yaml
