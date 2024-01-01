@@ -23,8 +23,8 @@ insert into api.todos (task) values
 
   
 grant usage on schema api to web_auth;    
-    
 grant all on api.todos to web_auth;
+grant usage, select on sequence api.todos_id_seq to web_auth;
 
 */
 
